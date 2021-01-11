@@ -1,1 +1,1 @@
-web: ./propetbackend/build/kotlin/compileKotlin/caches-jvm/last-build.bin
+web: ./propetbackend/build/kotlin/compileKotlin/last-build.bin
