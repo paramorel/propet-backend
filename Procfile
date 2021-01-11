@@ -1,1 +1,1 @@
-web: ./build/kotlin/compileKotlin/last-build.bin
+web: ./build/kotlin/compileKotlin
