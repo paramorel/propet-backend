@@ -1,1 +1,2 @@
-web: ./build/kotlin/compileKotlin
+web: ./build/install/propetbackend/bin/propetbackend
+
